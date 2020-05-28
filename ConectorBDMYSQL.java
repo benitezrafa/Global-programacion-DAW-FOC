@@ -25,7 +25,7 @@ public class ConectorBDMYSQL {
         try{
         String servidor="localhost";    
         int puerto=3306;
-        String bd="77808089d";
+        String bd="00000000d";
         String usuario="root";
         String password="root123";
             
